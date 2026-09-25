@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hey, I'm Aman 👋
 
-<!--
-**amanpandey04/amanpandey04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Web developer who likes building interfaces, overthinking tiny details, and occasionally remembering that "good enough" exists.
 
-Here are some ideas to get you started:
+I mainly work with **React and JavaScript**, with a focus on clean interfaces and thoughtful user experiences.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Tech Stack
+
+React · Next.js · JavaScript · TypeScript · Tailwind CSS · Node.js · Express · Authentication · API Design · REST APIs
+
+### Currently
+
+Building things, learning things, and occasionally obsessing over fixing things that weren't broken.
+
+### Find me
+
+🌐 [Portfolio](https://amanpandey.netlify.app/)
+💼 [LinkedIn](https://www.linkedin.com/in/amanpandey04/)
+
+---
+
+*Still learning. Still building. Still tweaking that 2px margin.*
