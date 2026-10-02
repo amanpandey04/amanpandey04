@@ -2,7 +2,7 @@
 
 Web developer who likes building interfaces, overthinking tiny details, and occasionally remembering that "good enough" exists.
 
-I mainly work with **React and JavaScript**, with a focus on clean interfaces and thoughtful user experiences.
+I mainly work with **React Ecosystem**, with a focus on clean interfaces and thoughtful user experiences.
 
 ### Tech Stack
 
@@ -19,4 +19,4 @@ Building things, learning things, and occasionally obsessing over fixing things 
 
 ---
 
-*Still learning. Still building. Still tweaking that 2px margin.*
+*Always learning. Always building. Always tweaking that 2px margin.*
